@@ -4,9 +4,9 @@ With This website we can chat with different users in the real time with their o
 This is how the active status of a users displays with a green dot.
 
 ![Screenshot 2024-04-08 152653](https://github.com/garimadeshmukh07/Chat-Application-in-Php/assets/105973047/980f5caa-1d9d-4aa9-9ab8-99215f87e1fb)
+<br/>
 
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
