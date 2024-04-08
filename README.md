@@ -7,7 +7,20 @@ This is how the active status of a users displays with a green dot.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 This is how you can chat in real time.( This picture is just an example of two users but there can be as many users as the operator wants )
+
 ![Screenshot 2024-04-08 152623](https://github.com/garimadeshmukh07/Chat-Application-in-Php/assets/105973047/ed456868-60d0-4bbc-8e91-4f89dfce3ce6)
 
 
